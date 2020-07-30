@@ -1,1 +1,1 @@
-# credit-card-defalult-predection
+# credit-card-default-predection
